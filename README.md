@@ -1,7 +1,7 @@
-Design-Nerd-Theme
+Agency-Template
 =================
 
-Bootstrap Theme - Flat UI and Parallax Scorlling
+Parallax one page using Twitter Boostrap Using HTML 5, CSS3 and JavaScript
 # Designed-Nerd-Theme
 __A Lightweight Bootstrap Development Theme__
 
